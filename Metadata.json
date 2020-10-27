@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 3811,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/delete-azure-rm-virtual-machinenicdisks-(updated-june-2019)/master/Remove-AzureRMVMInstanceResource.ps1",
+    "DownloadCount": 2024,
+    "Id": "Delete-Azure-RM-Virtual-fc09d944",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 153,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-8-30T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script will delete an Azure Resource manager Virtual Machine.It will also delete the associated Network Interface Card (NIC).It will also remote both STANDARD and MANAGED Disks.Including both the OS Disk and the DATA Disks.",
+    "Title": "Delete Azure RM Virtual Machine-NIC-Disks (Updated June 2019)",
+    "UpdatedDate": "2019-6-21T00:00:00",
+    "Url": "https://github.com/azureautomation/delete-azure-rm-virtual-machinenicdisks-(updated-june-2019)",
+    "UserTags": "VM, Virtual Machine, Azure Virtual Machines"
+}
